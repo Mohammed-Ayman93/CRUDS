@@ -80,8 +80,3 @@ LocalStorage usage
 
 Building a full CRUD workflow
 
-* Contact
-
-{ Mohammed Ayman }
-
-GitHub: https://github.com/mohammed-ayman93
